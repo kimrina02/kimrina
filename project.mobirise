@@ -49,8 +49,6 @@
     "uniqCompNum": 33,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/User/Documents",
     "favicon": "@PROJECT_PATH@/assets/images/i.webp",
     "noImageResize": false,
     "robotsSwitcher": false,
