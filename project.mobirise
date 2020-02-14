@@ -49,16 +49,18 @@
     "uniqCompNum": 33,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/User/Documents",
+    "publishType": "github",
+    "publishPath": "file:///C:/Program%20Files/akylai",
     "favicon": "@PROJECT_PATH@/assets/images/i.webp",
-    "noImageResize": false,
+    "noImageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "gitHubName": "kimrina02",
+    "gitHubPath": "kimrina"
   },
   "pages": {
     "index.html": {
